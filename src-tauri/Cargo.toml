@@ -1,8 +1,8 @@
 [package]
 name = "mixer"
 version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "An application to manage your computer's noise makers"
+authors = ["Andrew Woodward"]
 license = ""
 repository = ""
 edition = "2021"
